@@ -11,7 +11,8 @@ struct Node {
 Node* START = NULL;
 
 void addNode() {
-  
+    int nim;
+   
 
 int main()
 {
