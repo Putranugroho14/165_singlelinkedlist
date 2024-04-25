@@ -17,8 +17,8 @@ void addNode() {
     cout << "Masukkan NIM: ";
     cin >> nim;
     cout << "Masukkan Nama: ";
+    cin >> nama;
     
-
 int main()
 {
 
